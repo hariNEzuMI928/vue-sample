@@ -1,5 +1,5 @@
 {
-  "name": "vue-sample2",
+  "name": "vue-sample",
   "version": "1.0.0",
   "private": true,
   "description": "A Vue.js project",
@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@babel/preset-env": "^7.11.0",
-    "@vue/cli-service": "^4.5.4",
     "core-js": "^3.6.5",
     "vue": "^3.0.0-0"
   },
@@ -23,7 +22,7 @@
     "@babel/preset-react": "^7.10.4",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-service": "^4.5.4",
     "@vue/compiler-sfc": "^3.0.0-0",
     "@vue/eslint-config-prettier": "^6.0.0",
     "babel-core": "^6.26.0",
@@ -67,7 +66,7 @@
     "not ie <= 8",
     "not dead"
   ],
-  "_id": "vue-sample2@1.0.0",
+  "_id": "vue-sample@1.0.0",
   "license": "MIT",
   "readme": "ERROR: No README data found!"
 }
