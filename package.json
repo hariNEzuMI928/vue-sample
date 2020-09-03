@@ -12,7 +12,9 @@
   "dependencies": {
     "@babel/preset-env": "^7.11.0",
     "core-js": "^3.6.5",
-    "vue": "^3.0.0-0"
+    "vue": "^3.0.0-0",
+    "vue-router": "^3.4.3",
+    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
